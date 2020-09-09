@@ -1,6 +1,6 @@
 # FinTech Case Study  
 
-* Moka (fomally Mylo)  
+* Moka (formally Mylo)  
 
 * Incorparated July 2017
 
