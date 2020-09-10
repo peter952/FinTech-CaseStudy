@@ -72,6 +72,7 @@
 
 ## Soures  
 
+<<<<<<< HEAD
  * Moka https://moka.ai/en/about  
  * Wealthsimple https://www.wealthsimple.com/en-ca/learn/mylo-vs-wealthsimple#comparison_of_accounts_offered_managed_portfolios 
  * Wealthsimple https://www.wealthsimple.com/en-ca/about/who-we-are/ 
@@ -88,3 +89,6 @@
  * Savvy New Canadians https://www.savvynewcanadians.com/best-budgeting-personal-finance-apps-canada/ 
  * Ferst Capital Partners erstcapital.com 
  * CBC https://www.cbc.ca/player/play/1187906627971  
+=======
+* Philip Barrar founded Mylo on his entrepenurial spirit and desire to have a technology start up.  Being a self professed "Bootstapped Entrepreneur" with two startups previously he gained valuable personal finance skills. While being originally from the United States before moving to Canada for university he had experince in using American based personal finace apps.  Seeing a need in his Canadian peer group, recently graduated (millennials), and wanting to help them he decided to take the best features from the Americans apps plus his personal experience and start Moka formally Mylo with the help of First Capital Partners.
+>>>>>>> 96e3031050070be47a198941c4e05010c16296cb
