@@ -67,7 +67,7 @@
 
 * By adding joint accounts Moka could increase thier user base by including married couples. Letting a customer choose thier own stock could give them a sense of active participation as well as confidence.  Adding an icon could teach financial discipline and makes it easier to save more. A data wallet would give control over to the customers allowing for more security.  
 
-* For all but the data wallet technology already in use by Moka would be utilized. Blockchain technology would be best for control of one's data.
+* Existing technolgy would be suitable for all above mentioned except the data wallet technology already in use by Moka would be utilized. Blockchain technology would be best for control of one's data.
 
 * Blockchain being decentralized and unable to hack (so far) is far more secure than technology being used today.  
 
