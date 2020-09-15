@@ -73,7 +73,6 @@
 
 ## Soures  
 
-<<<<<<< HEAD
  * Moka https://moka.ai/en/about  
  * Wealthsimple https://www.wealthsimple.com/en-ca/learn/mylo-vs-wealthsimple#comparison_of_accounts_offered_managed_portfolios 
  * Wealthsimple https://www.wealthsimple.com/en-ca/about/who-we-are/ 
@@ -90,5 +89,5 @@
  * Savvy New Canadians https://www.savvynewcanadians.com/best-budgeting-personal-finance-apps-canada/ 
  * Ferst Capital Partners erstcapital.com 
  * CBC https://www.cbc.ca/player/play/1187906627971  
-=======
+
 >>>>>>> 96e3031050070be47a198941c4e05010c16296cb
