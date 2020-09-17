@@ -92,5 +92,6 @@
  * Savvy New Canadians https://www.savvynewcanadians.com/best-budgeting-personal-finance-apps-canada/ 
  * Ferst Capital Partners erstcapital.com 
  * CBC https://www.cbc.ca/player/play/1187906627971  
+ * Linkedin https://www.linkedin.com/company/moka-financial-technologies/
 
 >>>>>>> 96e3031050070be47a198941c4e05010c16296cb
