@@ -17,10 +17,13 @@
    * Jan 2018, $2.5 millon seed funding Desjardins Capital, Robert Reich, Ferst Capital Partners 
    * Nov 2019, $10 million series A National Bank, Desjardins Capital, Ferst Capital Partners, Tactico 
    * Total investments $13.75 million  
+   * June 2017 Acquired Tactex Asset Management
 
 ## Business Activities:    
 
 * Moka is a personal finance app that helps customers save money by rounding up purchases to the nearest dollar. It then deposits the money in an account and invested in stock, bonds and money markets. The account is Managed by a Perfessional Porfolio Manager.  
+
+* Are currently expanding into France.
 
 * Moka's targeted customer age is 24 to 39 years old, millennials. There are 7.3 million millennials in Canada making them the largest age group since the baby boomers.  
 
